@@ -10,3 +10,7 @@ echo "export GOROOT=$HOME/go" >> ~/.profile
 echo "export PATH=$PATH:$GOROOT/bin" >> ~/.profile
 
 source ~/.profile
+
+
+export GOPATH=$HOME/go
+export GOPATH=$HOME/go
